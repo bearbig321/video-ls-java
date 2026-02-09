@@ -1,7 +1,7 @@
 package com.example.videols.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.example.videols.entity.${m};
+import com.example.videols.entity.LearningProgress;
 
-public interface ${m}Mapper extends BaseMapper<${m}> {
+public interface LearningProgressMapper extends BaseMapper<LearningProgress> {
 }

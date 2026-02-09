@@ -1,7 +1,7 @@
 package com.example.videols.service;
 
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.example.videols.entity.${s};
+import com.example.videols.entity.LearningProgress;
 
-public interface ${s}Service extends IService<${s}> {
+public interface LearningProgressService extends IService<LearningProgress> {
 }
